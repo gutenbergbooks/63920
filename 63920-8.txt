@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of Voyage à l'Ile-de-France (2/2), by 
+The Project Gutenberg EBook of Voyage à l'Ile-de-France, tome 2 (of 2), by 
 Henri Bernardin de Saint-Pierre
 
 This eBook is for the use of anyone anywhere in the United States and most
@@ -8,17 +8,17 @@ the Project Gutenberg License included with this eBook or online at
 www.gutenberg.org.  If you are not located in the United States, you'll have
 to check the laws of the country where you are located before using this ebook.
 
-Title: Voyage à l'Ile-de-France (2/2)
+Title: Voyage à l'Ile-de-France, tome 2 (of 2)
 
 Author: Henri Bernardin de Saint-Pierre
 
-Release Date: November 30, 2020 [EBook #63920]
+Release Date: November 29, 2020 [EBook #63920]
 
 Language: French
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK VOYAGE À L'ILE-DE-FRANCE (2/2) ***
+*** START OF THIS PROJECT GUTENBERG EBOOK VOYAGE À L'ILE-DE-FRANCE ***
 
 
 
@@ -4713,10 +4713,10 @@ correspondant vraisemblablement à une erreur de numérotation, le texte
 
 
 
-End of the Project Gutenberg EBook of Voyage à l'Ile-de-France (2/2), by 
+End of the Project Gutenberg EBook of Voyage à l'Ile-de-France, tome 2 (of 2), by 
 Henri Bernardin de Saint-Pierre
 
-*** END OF THIS PROJECT GUTENBERG EBOOK VOYAGE À L'ILE-DE-FRANCE (2/2) ***
+*** END OF THIS PROJECT GUTENBERG EBOOK VOYAGE À L'ILE-DE-FRANCE ***
 
 ***** This file should be named 63920-8.txt or 63920-8.zip *****
 This and all associated files of various formats will be found in:
